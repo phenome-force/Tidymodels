@@ -4,6 +4,8 @@
 
 ## Workshop: "Using Tidymodels in Plant Phenotyping Workflow"
 
+Author: [Henri Chung](https://github.com/henrichung)
+
 <br />
 
 ## Hands-On:
