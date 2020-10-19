@@ -1,0 +1,28 @@
+channels:
+    - conda-forge
+    - bioconda
+dependencies:
+    - r-base=3.6
+    - r-tidyverse
+    - r-tidymodels
+    - r-ranger
+    - r-kknn
+    - r-ggplot2
+    - r-tibble
+    - r-tidyr
+    - r-readr
+    - r-purrr
+    - r-dplyr
+    - r-stringr
+    - r-forcats
+    - r-broom
+    - r-dials
+    - r-infer
+    - r-modeldata
+    - r-parsnip
+    - r-recipes
+    - r-rsample
+    - r-tune
+    - r-workflows
+    - r-yardstick
+    
