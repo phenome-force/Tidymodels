@@ -25,4 +25,5 @@ dependencies:
     - r-tune
     - r-workflows
     - r-yardstick
+    - r-janitor
     
