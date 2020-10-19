@@ -12,7 +12,7 @@
 
 > Launch the Binder button below to open a virtual RStudio:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phenome-force/Tidymodels.git/main?filepath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phenome-force/Tidymodels.git/main?urlpath=rstudio)
 
 <br />
 
