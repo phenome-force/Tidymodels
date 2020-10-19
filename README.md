@@ -10,7 +10,7 @@
 
 > Open Tutorial: [https://phenome-force.github.io/Tidymodels/](https://phenome-force.github.io/Tidymodels/)
 
-> Launch the Binder button below to open a virtual RStudio (running this tutorial online):
+> Launch the Binder button below to open a virtual RStudio:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phenome-force/Tidymodels.git/main?filepath=rstudio)
 
